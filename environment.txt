@@ -1,0 +1,6 @@
+conda create -n cv_env python=3.10 -y
+conda activate cv_env
+conda install numpy matplotlib pandas scipy -y
+conda install -c conda-forge scikit-image -y
+pip install opencv-contrib-python -i https://pypi.tuna.tsinghua.edu.cn/simple
+pip install jupyter ipykernel -i https://pypi.tuna.tsinghua.edu.cn/simple
