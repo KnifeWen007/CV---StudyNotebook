@@ -121,6 +121,7 @@ Learning/
 - [单 / 多目标模板匹配：相似度度量与阈值优化【计算机视觉】](https://blog.csdn.net/R_Feynman_/article/details/156995021)
 - [边缘检测：基础算子到高级边缘提取【计算机视觉】](https://blog.csdn.net/R_Feynman_/article/details/157186376)
 - [角点检测：基础原理到高精度特征定位拼接图像【计算机视觉】](https://blog.csdn.net/R_Feynman_/article/details/157584387)
+- [特征检测：SIFT 与 SURF（尺度不变 / 加速稳健特征）【计算机视觉】](https://blog.csdn.net/R_Feynman_/article/details/157720209)
 
 ## 参考资料
 
