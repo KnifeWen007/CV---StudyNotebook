@@ -58,6 +58,9 @@ jupyter notebook
 - [角点检测：基础原理到高精度特征定位拼接图像【计算机视觉】](https://blog.csdn.net/R_Feynman_/article/details/157584387)
 - [特征检测：SIFT 与 SURF（尺度不变 / 加速稳健特征）【计算机视觉】](https://blog.csdn.net/R_Feynman_/article/details/157720209)
 - [傅里叶变换：从空域到频域的图像分析【计算机视觉】](https://blog.csdn.net/R_Feynman_/article/details/158626321)
+- [小波变换：多分辨率分析与图像小波去噪 / 增强 / 融合【计算机视觉】](https://blog.csdn.net/R_Feynman_/article/details/158892445)
+- [图像去雾：从直方图增强到暗通道先验【计算机视觉】](https://blog.csdn.net/R_Feynman_/article/details/158807328)
+
 
 ## 参考资料
 
