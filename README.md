@@ -49,9 +49,9 @@ jupyter notebook
 
 以下是我在学习过程中撰写的计算机视觉相关博客文章，记录了更深入的理论理解和实践心得：
 
+- [灰度变换与阈值化：从像素映射到图像二值化的核心操作【计算机视觉】](https://blog.csdn.net/R_Feynman_/article/details/157647806)
 - [卷积：彻底搞懂卷积核怎么扫图和计算【计算机视觉】](https://blog.csdn.net/R_Feynman_/article/details/156833752)
 - [图像滤波：手撕五大经典滤波（均值 / 高斯 / 中值 / 双边 / 导向）【计算机视觉】](https://blog.csdn.net/R_Feynman_/article/details/156872829)
-- [灰度变换与阈值化：从像素映射到图像二值化的核心操作【计算机视觉】](https://blog.csdn.net/R_Feynman_/article/details/157647806)
 - [形态学与多尺度处理：图像形状与尺度的基础处理框架【计算机视觉】](https://blog.csdn.net/R_Feynman_/article/details/157617875)
 - [单 / 多目标模板匹配：相似度度量与阈值优化【计算机视觉】](https://blog.csdn.net/R_Feynman_/article/details/156995021)
 - [边缘检测：基础算子到高级边缘提取【计算机视觉】](https://blog.csdn.net/R_Feynman_/article/details/157186376)
