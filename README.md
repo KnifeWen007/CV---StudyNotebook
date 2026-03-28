@@ -60,6 +60,7 @@ jupyter notebook
 - [傅里叶变换：从空域到频域的图像分析【计算机视觉】](https://blog.csdn.net/R_Feynman_/article/details/158626321)
 - [小波变换：多分辨率分析与图像小波去噪 / 增强 / 融合【计算机视觉】](https://blog.csdn.net/R_Feynman_/article/details/158892445)
 - [图像去雾：从直方图增强到暗通道先验【计算机视觉】](https://blog.csdn.net/R_Feynman_/article/details/158807328)
+- [霍夫变换：几何特征检测与量化验证【计算机视觉】](https://blog.csdn.net/R_Feynman_/article/details/158855945)
 
 
 ## 参考资料
